@@ -1,0 +1,16 @@
+print("Здравствуйте, сейчас я расскажу немного информации обо мне.")
+myName = " Максим "
+mySurname = " Антонов "
+myAge = " 17 "
+print("Меня зовут",mySurname, myName, "мне", myAge, "лет.")
+myCity = " Великом Новгороде "
+iStudy = " Новгородском Строительном колледже "
+mySpecialty = " Информационные системы по отраслям "
+print("Я живу в", myCity, ",учусь в", iStudy, ",моя специальность -", mySpecialty )
+myWeight = "50"
+myHeight = "173"
+print("Мой вес", myWeight, "кг,", "мой рост ", myHeight, "см")
+aboutMe = "пока не сильно понимаю программироване"
+whatIWant = "начать понимать программирование"
+print("Я", aboutMe, ", я хочу", whatIWant)
+print("До свидания!")
